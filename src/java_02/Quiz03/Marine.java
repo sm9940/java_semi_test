@@ -1,4 +1,4 @@
-package Quiz03;
+package java_02.Quiz03;
 
 public class Marine {
     int x = 0, y = 0; // Marine의 위치좌표(x,y)
